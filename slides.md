@@ -5,6 +5,7 @@ class: text-center
 highlighter: shiki
 lineNumbers: false
 monaco: true
+download: true
 info: |
   ## Slidev Starter Template
   Presentation slides for developers.
